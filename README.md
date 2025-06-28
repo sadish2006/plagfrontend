@@ -12,7 +12,7 @@ This project seamlessly integrates a modern React frontend with powerful serverl
 
 🎥 Demo Video
 
-[![Watch the demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+[![Watch the demo](https://youtu.be/NrxOroxCMdk?si=fxiua4SPdgRkoCF_)](https://youtu.be/NrxOroxCMdk?si=fxiua4SPdgRkoCF_)
 
 
 
@@ -32,8 +32,7 @@ All these features are powered by **Claude 3 Sonnet** via **Amazon Bedrock**, ca
 
 🧱 System Architecture
 
-![AI Content Analyzer Architecture](./docs/architecture.png)
-
+![AI Content Analyzer Architecture] ![Architecture Diagram](https://github.com/user-attachments/assets/8092928a-93f0-4874-b88a-ef945e0725f5)
 
 
 Components:
